@@ -1,8 +1,5 @@
 {
-  "name": "@alirun/ethers-provider-bundle",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
+  "name": "alirun-ethers-provider-bundle",
   "version": "0.6.1",
   "description": "Fork of @flashbots/ethers-provider-bundle with improvements",
   "main": "build/index.js",
