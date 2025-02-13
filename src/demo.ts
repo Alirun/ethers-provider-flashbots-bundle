@@ -1,4 +1,4 @@
-import { BigNumber, providers, Wallet } from 'ethers'
+import { BigNumber, providers, Wallet } from 'ethers-v5'
 import { FlashbotsBundleProvider, FlashbotsBundleResolution } from './index'
 import { TransactionRequest } from '@ethersproject/abstract-provider'
 import { v4 as uuidv4 } from 'uuid'

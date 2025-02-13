@@ -1,4 +1,4 @@
-import { providers, utils, Wallet } from 'ethers'
+import { providers, utils, Wallet } from 'ethers-v5'
 import { FlashbotsBundleConflictType, FlashbotsBundleProvider, FlashbotsGasPricing } from './index'
 
 const FLASHBOTS_AUTH_KEY = process.env.FLASHBOTS_AUTH_KEY
